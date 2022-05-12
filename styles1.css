@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: #f1f1f1;
+    color: #0f141e;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-group label{
+    font-size: 14px;
+    color: green;
+}
+.form-group input{
+    border-bottom: 1px solid #ccc;
+}
